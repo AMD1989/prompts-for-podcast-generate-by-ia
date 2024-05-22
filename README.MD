@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="https://github.com/AMD1989/prompts-for-podcast-generate-by-ia/tree/main/assets/cover.jpg"
+    src="./assets/cover.jpg"
     width="300"
 />
 </p>
